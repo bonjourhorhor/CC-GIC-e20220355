@@ -1,9 +1,9 @@
 # Cloud Lab 2 Submission — Load Balancer and Auto Scaling
 
-- **Student name:**
-- **Student ID:**
-- **Learner Lab user name:**
-- **Date completed:**
+- **Student name: Luy Lyhor**
+- **Student ID: e20220355**
+- **Learner Lab user name: Lyhor**
+- **Date completed: 31/10/2026**
 
 ---
 
